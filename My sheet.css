@@ -1,0 +1,43 @@
+.body{
+    background-image: url("Zakat Calculator01.jpg");
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-size: cover;
+    color:whitesmoke;
+}
+.div{
+    text-align: center;
+    font-size: 30px;
+}
+.input{
+    font-size: 40px;
+    color:rgb(158, 102, 102);
+    background-color: white;
+    border-radius: 10px;
+    border-color: blueviolet;
+}
+.input:hover{
+    font-size: 40px;
+    color:white;
+    background-color:red;
+    border-radius: 10px;
+    border-color: brown;
+}
+.button{
+    font-size: 30px;
+    color: rgb(151, 25, 52);
+    background-color: white;
+    border-radius: 10px;
+    border-color: rgba(88, 5, 10, 0.253);
+}
+.button:hover{
+    font-size: 35px;
+    color: rgb(114, 92, 238);
+    background-color: red;
+    border-radius: 10px;
+    border-color: blueviolet;
+}h1{
+    font: size 35px;
+    color: black ;
+    
+}
